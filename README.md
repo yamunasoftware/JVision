@@ -28,7 +28,7 @@ Maven:
   <dependency>
     <groupId>com.github.yamunasoftware</groupId>
     <artifactId>JVision</artifactId>
-    <version>LATEST-VERSION/version>
+    <version>main-SNAPSHOT</version>
   </dependency>
 </dependencies>
 ```
@@ -43,6 +43,6 @@ allprojects {
 }
 
 dependencies {
-  implementation 'com.github.yamunasoftware:JVision:LATEST-VERSION'
+  implementation 'com.github.yamunasoftware:JVision:main-SNAPSHOT'
 }
 ```
